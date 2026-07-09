@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Vansh, I'm from India.</h1>
+<h1 align="center">Hi 👋! My name is Vishant, I'm from India.</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Aspiring+Full-Stack+Developer;DSA+%7C+MERN+%7C+Explorer;Building+Secure+%26+Scalable+Apps" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 <h2 align="center">🌟 About Me</h2>
 
 <p align="center">
-  I'm super into making apps that work great for lots of people. Right now, I'm geeking out over full-stack dev. Why? 'Cause I wanna build cool stuff that actually helps people!
+  Full-stack developer who likes turning "what if we built..." into something real. MERN stack is my daily driver, and I'm always down to learn whatever gets the job done better.
 </p>
 
 <!--
@@ -27,7 +27,7 @@
 <p align="center">
 💻 Building full-stack web apps with the MERN stack – it’s my power tool for modern, dynamic web apps.
 🌐 MongoDB, Express, React, and Node.js – this stack is a total game-changer! <br>
-  📊 Mastering Data Structures and Algorithms with C++ – taking my problem-solving to the next level.
+  📊 Mastering Data Structures and Algorithms with Java – taking my problem-solving to the next level.
 ⚙️ From arrays to advanced algorithms, it’s all about cracking efficiency!<br>
   🎬 Bringing websites to life using GSAP – smooth, fluid animations that make everything pop!
 ✨ Dynamic, interactive, and engaging front-end magic with just a few lines of code.<br>
@@ -37,11 +37,11 @@
 ## 🌐 Socials:
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vansh-tyagi-825001273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansh-tyagi-825001273" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishant-pal-42a9a9293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishant-pal-8923577237" height="30" width="40" /></a>
 <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vansh tyagi" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/iamvtyagi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chikuInsight" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vansh_tyagi1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vansh_tyagi1" height="30" width="40" /></a>
-<a href="mailto:vanshjii021@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="vanshjii021@gmail.com" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/iamvishupal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishupal" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/vansh_tyagi1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vansh_tyagi1" height="30" width="40" /></a> -->
+<a href="mailto:vishantpal62@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="vishantpal62@gmail.com" height="30" width="40" /></a>
 </p>
 
 <p align="center">
@@ -79,11 +79,11 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=iamvtyagi&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishant8491&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamvtyagi&theme=radical" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishant8491&theme=radical" alt="GitHub Streak" height="150"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvtyagi&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishant8491&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 
 </div>
 
@@ -93,7 +93,7 @@
 <!-- <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=iamvtyagi&theme=onedark" />
+ <img src="https://github-profile-trophy.vercel.app/?username=vishant8491&theme=onedark" />
 </p> -->
 
 
@@ -101,7 +101,7 @@
 <h2 align="center">🐍 Contributions Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iamvtyagi/iamvtyagi/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/vishant8491/vishant8491/output/snake.svg" alt="Snake animation" />
 </p>
 
 --->
@@ -113,7 +113,7 @@
 <h2 align="center">👁️ Profile Views</h2>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/iamvtyagi/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/vishant8491/count.svg" alt="Visitor Count" />
 </p>
 
 -->
@@ -125,8 +125,8 @@
 <h2 align="center">💡 A Coding Thought</h2>
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i><br>
-  - Cory House
+  <i>""First, solve the problem. Then, write the code."</i><br>
+  - John Johnson
 </p>
 
 <p align="center">
