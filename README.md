@@ -96,7 +96,7 @@
 </p> -->
 
 
-<!-
+<!---
 <h2 align="center">🐍 Contributions Snake</h2>
 
 <p align="center">
@@ -108,7 +108,7 @@
 <br>
 
 
-<!---
+<!-
 <h2 align="center">👁️ Profile Views</h2>
 
 <p align="center">
