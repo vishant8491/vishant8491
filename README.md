@@ -96,7 +96,7 @@
 </p> -->
 
 
-<!---
+<!-
 <h2 align="center">🐍 Contributions Snake</h2>
 
 <p align="center">
