@@ -134,3 +134,38 @@
 vishant8491/vishant8491 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+## 📫 Contact Me
+
+<p align="left">
+  <img src="https://img.icons8.com/ios-filled/20/ffffff/marker.png" width="18" />
+  <strong>Noida, Uttar Pradesh, India</strong>
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/ios-filled/20/ffffff/new-post.png" width="18" />
+  <a href="mailto:vishantpal021@gmail.com">vishantpal021@gmail.com</a>
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" />
+  <a href="https://www.linkedin.com/in/vishant-pal/" target="_blank">
+    linkedin.com/in/vishant-pal
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/x/ffffff" width="18" />
+  <a href="https://x.com/yourusername" target="_blank">
+    @yourusername
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18" />
+  <a href="https://github.com/vishant8491" target="_blank">
+    github.com/vishant8491
+  </a>
+</p>
