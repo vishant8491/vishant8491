@@ -80,11 +80,7 @@
 <div align="center">
 
  <div align="center">
-
-  <img src="https://github-stats.as93.net/vishant8491?theme=radical" alt="GitHub Stats" height="150"/>
-
   <img src="https://streak-stats.demolab.com/?user=vishant8491&theme=radical" alt="GitHub Streak" height="150"/>
-
 </div>
 
 </div>
