@@ -134,3 +134,26 @@
 iamvtyagi/iamvtyagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
+
+
+
+<p>
+  🏛️ Shri Ram Group Of Colleges, Muzaffarnagar <br>
+  📩 vishantpal62@gmail.com <br>
+  <a href="https://linkedin.com/in/vishant-pal">
+    <img src="https://img.shields.io/badge/LinkedIn-vishant--pal-blue?logo=linkedin" />
+  </a> <br>
+  <a href="https://github.com/vishant8491">
+    <img src="https://img.shields.io/badge/GitHub-vishant8491-black?logo=github" />
+  </a> <br>
+  <a href="https://leetcode.com/vishant8491">
+    <img src="https://img.shields.io/badge/LeetCode-vishant8491-orange?logo=leetcode" />
+  </a> <br>
+  <a href="https://heritageally-gahe.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-HeritageAlly-green?logo=google-chrome" />
+  </a>
+</p>
