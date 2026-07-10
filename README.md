@@ -79,11 +79,13 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=vishant8491&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" height="150"/>
+ <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=vishant8491&theme=radical&hide_border=true" alt="GitHub Streak" height="150"/>
+  <img src="https://github-stats.as93.net/vishant8491?theme=radical" alt="GitHub Stats" height="150"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishant8491&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=vishant8491&theme=radical" alt="GitHub Streak" height="150"/>
+
+</div>
 
 </div>
 
